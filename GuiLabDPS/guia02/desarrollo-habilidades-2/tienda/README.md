@@ -11,7 +11,7 @@ Asegúrate de tener **Node.js** instalado. Descárgalo desde [nodejs.org](https:
 1. Clona el repositorio:
 
 ```bash
-git clone
+git clone https://github.com/Marce-lr/PruebaGit/tree/f1974ce09d6b0d7af0602df7e8de7c63de7ca49b/GuiLabDPS/guia02/desarrollo-habilidades-2/tienda
 ```
 
 2. Accede al directorio del proyecto:
