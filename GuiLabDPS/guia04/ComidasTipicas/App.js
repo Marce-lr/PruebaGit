@@ -22,19 +22,8 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#f0f0f0",
+    backgroundColor: "#fff",
     alignItems: "center",
-    justifyContent: "flex-start",
-    padding: 20,
-  },
-  listContainer: {
-    width: "100%",
-    backgroundColor: "#ffffff",
-    borderRadius: 10,
-    padding: 10,
-    shadowColor: "#000",
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.2,
-    shadowRadius: 4,
+    justifyContent: "center",
   },
 });
